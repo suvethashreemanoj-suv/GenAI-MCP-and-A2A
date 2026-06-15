@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+openai
+mcp
+httpx
+a2a-sdk[http-server]
